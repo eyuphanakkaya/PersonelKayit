@@ -1,0 +1,20 @@
+C:\Users\akkay\Desktop\deneme\personel_kayit1\personel_kayit1\bin\Debug\personel_kayit1.exe.config
+C:\Users\akkay\Desktop\deneme\personel_kayit1\personel_kayit1\bin\Debug\personel_kayit1.exe
+C:\Users\akkay\Desktop\deneme\personel_kayit1\personel_kayit1\bin\Debug\personel_kayit1.pdb
+C:\Users\akkay\Desktop\deneme\personel_kayit1\personel_kayit1\obj\Debug\personel_kayit1.csprojAssemblyReference.cache
+C:\Users\akkay\Desktop\deneme\personel_kayit1\personel_kayit1\obj\Debug\personel_kayit1.Form1.resources
+C:\Users\akkay\Desktop\deneme\personel_kayit1\personel_kayit1\obj\Debug\personel_kayit1.Properties.Resources.resources
+C:\Users\akkay\Desktop\deneme\personel_kayit1\personel_kayit1\obj\Debug\personel_kayit1.csproj.GenerateResource.cache
+C:\Users\akkay\Desktop\deneme\personel_kayit1\personel_kayit1\obj\Debug\personel_kayit1.csproj.CoreCompileInputs.cache
+C:\Users\akkay\Desktop\deneme\personel_kayit1\personel_kayit1\obj\Debug\personel_kayit1.exe
+C:\Users\akkay\Desktop\deneme\personel_kayit1\personel_kayit1\obj\Debug\personel_kayit1.pdb
+C:\Users\Eyüphan Akkaya\Desktop\3.Sınıf1.Dönem\deneme\personel_kayit1\personel_kayit1\bin\Debug\personel_kayit1.exe.config
+C:\Users\Eyüphan Akkaya\Desktop\3.Sınıf1.Dönem\deneme\personel_kayit1\personel_kayit1\bin\Debug\personel_kayit1.exe
+C:\Users\Eyüphan Akkaya\Desktop\3.Sınıf1.Dönem\deneme\personel_kayit1\personel_kayit1\bin\Debug\personel_kayit1.pdb
+C:\Users\Eyüphan Akkaya\Desktop\3.Sınıf1.Dönem\deneme\personel_kayit1\personel_kayit1\obj\Debug\personel_kayit1.csproj.AssemblyReference.cache
+C:\Users\Eyüphan Akkaya\Desktop\3.Sınıf1.Dönem\deneme\personel_kayit1\personel_kayit1\obj\Debug\personel_kayit1.Form1.resources
+C:\Users\Eyüphan Akkaya\Desktop\3.Sınıf1.Dönem\deneme\personel_kayit1\personel_kayit1\obj\Debug\personel_kayit1.Properties.Resources.resources
+C:\Users\Eyüphan Akkaya\Desktop\3.Sınıf1.Dönem\deneme\personel_kayit1\personel_kayit1\obj\Debug\personel_kayit1.csproj.GenerateResource.cache
+C:\Users\Eyüphan Akkaya\Desktop\3.Sınıf1.Dönem\deneme\personel_kayit1\personel_kayit1\obj\Debug\personel_kayit1.csproj.CoreCompileInputs.cache
+C:\Users\Eyüphan Akkaya\Desktop\3.Sınıf1.Dönem\deneme\personel_kayit1\personel_kayit1\obj\Debug\personel_kayit1.exe
+C:\Users\Eyüphan Akkaya\Desktop\3.Sınıf1.Dönem\deneme\personel_kayit1\personel_kayit1\obj\Debug\personel_kayit1.pdb
